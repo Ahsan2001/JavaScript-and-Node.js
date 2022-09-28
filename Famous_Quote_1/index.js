@@ -1,0 +1,1 @@
+document.write(`  Imran Khan once said, “ Compromise for your Dream but NEVER Compromise on your Dream.”` );
