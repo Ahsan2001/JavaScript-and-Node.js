@@ -7,6 +7,5 @@ function Cars(modalName,manufacturer) {
 }
 
 
-console.log(typeof(Cars))
 Cars("2022", "Audi")
 

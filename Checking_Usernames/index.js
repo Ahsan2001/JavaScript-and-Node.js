@@ -10,7 +10,7 @@ new_users.toLowerCase
 for (let names in new_users){
     for (let check in current_users){
         if (new_users[names] === current_users[check] ) {
-            document.write( "<br>" + "person will need to enter a new username")
+            document.write( "<br>" + "Enter a unique username")
         } else {
             document.write(  "<br>" + "the username is available")
         }
