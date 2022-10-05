@@ -9,9 +9,9 @@ const Bio_Object = {
 }
 
 
-// document.write(Bio_Object.name + "<br>");
-// document.write(Bio_Object.type + "<br>");
-// document.write(Bio_Object.age + "<br>");
-// document.write(Bio_Object.color + "<br>");
-// document.write(Bio_Object.weight + "<br>");
-// document.write(Bio_Object.height + "<br>");
+document.write(Bio_Object.name + "<br>");
+document.write(Bio_Object.type + "<br>");
+document.write(Bio_Object.age + "<br>");
+document.write(Bio_Object.color + "<br>");
+document.write(Bio_Object.weight + "<br>");
+document.write(Bio_Object.height + "<br>");

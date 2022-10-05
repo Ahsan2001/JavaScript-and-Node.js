@@ -1,5 +1,6 @@
 let FullName = "Adeyemi Oladipupo";
 let age = 21;
+let marks = [2, 4, 5, 3]
 
 
 if (FullName === "Adeyemi Oladipupo") {
@@ -79,3 +80,10 @@ if (age < 21 && age >= 21) {
 } else {
     document.write("And opertor condition false.")
 }
+
+
+document.write( "<br>" +  "Array in an item " + marks.includes(3));
+
+document.write( "<br>" +  "Item is not in a array " + marks.includes(13));
+
+
